@@ -11,7 +11,7 @@ $homeAddress = $_POST['address'];
 $employmentStatus = $_POST['status'];
  
 //Recipient email, Replace with your email Address
-$mailTo = 'hmawebdesign@hotmail.com';
+$mailTo = 'bayoibiyemi1@gmail.com';
  
 //email subject
 $subject = ' A New Message Received From ' .$firstName;
